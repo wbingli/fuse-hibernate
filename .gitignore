@@ -1,0 +1,22 @@
+.*
+pom.xml.releaseBackup
+release.properties
+tree.txt
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
